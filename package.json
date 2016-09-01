@@ -1,0 +1,18 @@
+{
+  "name": "toDoList",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma start --browsers PhantomJS"
+  },
+  "author": "CC",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^1.20.1"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.10.2"
+  }
+}
